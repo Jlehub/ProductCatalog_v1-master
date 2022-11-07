@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "928231442081",
+    "project_id": "lab5-seg2505-babbe",
+    "storage_bucket": "lab5-seg2505-babbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928231442081:android:6257263ded39702b0452e0",
+        "android_client_info": {
+          "package_name": "mgarzon.createbest.productcatalog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928231442081-17j1hi49v9bvdfh74qunbavpl3mmmo0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-o-b_mCoEK9fE814EqVb4u6UeN3zbd9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928231442081-17j1hi49v9bvdfh74qunbavpl3mmmo0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
